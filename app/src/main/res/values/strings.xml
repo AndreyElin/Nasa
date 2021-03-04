@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nasa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wiki_helper_text">Поищите термин в википедии</string>
+    <string name="search_wiki">Найти в Википедии</string>
+</resources>
